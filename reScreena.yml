@@ -1,0 +1,8 @@
+reScreena:
+  attributes: 0
+  version:
+    major: 1
+    minor: 1
+  main:
+    start: modulea_start
+    stop: modulea_stop
