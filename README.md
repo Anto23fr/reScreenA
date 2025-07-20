@@ -1,4 +1,4 @@
-# reScreenA - Par anto23
+# reScreenA - modifier par anto23 ( mais j'ai rien fais de plus )
 
 Enregistre les photos devant aller dans le dossier "ALL" dans un dossier ayant le même nom que le jeu qu'il l'a créer. (au lieu de faire pleins de dossiers aléatoires).
 
@@ -20,7 +20,7 @@ Amazing Cleanup by Amazing Princess of Sleeping
 
 With help from folks at the
 
-CBPS discord: https://discord.cbps.xyz
+CBPS discord: https://discord.cbps.xyz ( ils m'ont aider aussi )
 
 CBPS Forums: https://forum.devchroma.nl/index.php
 
