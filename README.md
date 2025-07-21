@@ -1,3 +1,5 @@
+Pour l'instant ne marche pas (creer bien le dossier mais ne met pas l'image, en tout cas pour project diva f 2nd (donc peut-etre ça marche pour d'autres jeux j'ai pas tester)
+
 # reScreenA - modifier par anto23 ( mais j'ai rien fais de plus )
 
 Enregistre les photos qui doivent aller dans le dossier "ALL" dans un dossier ayant le même nom que le jeu qui l'a créé. (au lieu de faire plein de dossiers aléatoires).
