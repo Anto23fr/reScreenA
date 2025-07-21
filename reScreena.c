@@ -125,7 +125,7 @@ void sanitize(char *in, int len) {
 int hook_func1(int r1, ImgParam2 *param2, ImgParam3 *param3) {
 	
 	int ret;
-	if(param2->type == 2) {
+	if(param2->type != 2) {
 		SceDateTime time;
 		sceRtcGetCurrentClockLocalTime(&time);
 		
