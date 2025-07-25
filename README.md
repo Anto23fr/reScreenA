@@ -1,6 +1,6 @@
 Pour l'instant ne marche pas (creer bien le dossier mais ne met pas l'image, en tout cas pour project diva f 2nd (donc peut-etre ça marche pour d'autres jeux j'ai pas tester)
 
-# reScreenA - modifier par anto23 ( mais j'ai rien fais de plus )
+# reScreenA - modifier par anto23
 
 Enregistre les photos qui doivent aller dans le dossier "ALL" dans un dossier ayant le même nom que le jeu qui l'a créé. (au lieu de faire plein de dossiers aléatoires).
 
@@ -16,7 +16,7 @@ Add to taihen config.txt as follows.
 		
 ## Credits:
 
-Je n'ai rien fait à part modifier 2/3 lettres, (j'ai même copié le Readme, c'en est honteux) donc tout le mérite revient au personnes cités ci-dessous :
+le mérite du plugin revient au personnes cités ci-dessous :
 
 Amazing Cleanup by Amazing Princess of Sleeping
 
